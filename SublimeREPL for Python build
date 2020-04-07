@@ -1,0 +1,7 @@
+#creates a REPL build which opens a new fil after the build command.
+
+{
+    "target": "run_existing_window_command", 
+    "id": "repl_python_run",
+    "file": "config/Python/Main.sublime-menu"
+}
